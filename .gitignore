@@ -20,3 +20,5 @@ artifacts/gcloud/
 Makefile.dev
 
 vendor
+
+.project
